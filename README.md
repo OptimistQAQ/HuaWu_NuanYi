@@ -38,8 +38,8 @@ Baidu developer
 
 
 
-| *************                                                |                        *************                         |                           *******                            |
-| ------------------------------------------------------------ | :----------------------------------------------------------: | :----------------------------------------------------------: |
-| ![](D:\Program Files (x86)\AndroidStudioProjects\HuaWu_Nuanyi\pictures\1.JPG) | ![](D:\Program Files (x86)\AndroidStudioProjects\HuaWu_Nuanyi\pictures\2.JPG) | ![](D:\Program Files (x86)\AndroidStudioProjects\HuaWu_Nuanyi\pictures\3.JPG) |
-| ![](D:\Program Files (x86)\AndroidStudioProjects\HuaWu_Nuanyi\pictures\4.JPG) | ![](D:\Program Files (x86)\AndroidStudioProjects\HuaWu_Nuanyi\pictures\5.JPG) | ![](D:\Program Files (x86)\AndroidStudioProjects\HuaWu_Nuanyi\pictures\6.JPG) |
-| ![](D:\Program Files (x86)\AndroidStudioProjects\HuaWu_Nuanyi\pictures\7.JPG) | ![](D:\Program Files (x86)\AndroidStudioProjects\HuaWu_Nuanyi\pictures\8.JPG) | ![](D:\Program Files (x86)\AndroidStudioProjects\HuaWu_Nuanyi\pictures\9.JPG) |
+| *************         |     *************     |        *******        |
+| --------------------- | :-------------------: | :-------------------: |
+| ![](.\pictures\1.JPG) | ![](.\pictures\2.JPG) | ![](.\pictures\3.JPG) |
+| ![](.\pictures\4.JPG) | ![](.\pictures\5.JPG) | ![](.\pictures\6.JPG) |
+| ![](.\pictures\7.JPG) | ![](.\pictures\8.JPG) | ![](.\pictures\9.JPG) |
