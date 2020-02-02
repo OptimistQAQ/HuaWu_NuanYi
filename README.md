@@ -40,6 +40,6 @@ Baidu developer
 
 | *************         |     *************     |        *******        |
 | --------------------- | :-------------------: | :-------------------: |
-| ![](.\pictures\1.JPG) | ![](.\pictures\2.JPG) | ![](.\pictures\3.JPG) |
-| ![](.\pictures\4.JPG) | ![](.\pictures\5.JPG) | ![](.\pictures\6.JPG) |
-| ![](.\pictures\7.JPG) | ![](.\pictures\8.JPG) | ![](.\pictures\9.JPG) |
+| ![](./pictures/1.JPG) | ![](./pictures/2.JPG) | ![](./pictures/3.JPG) |
+| ![](./pictures/4.JPG) | ![](./pictures/5.JPG) | ![](./pictures/6.JPG) |
+| ![](./pictures/7.JPG) | ![](./pictures/8.JPG) | ![](./pictures/9.JPG) |
