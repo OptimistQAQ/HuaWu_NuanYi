@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <TextView
+            android:id="@+id/position_text_view"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone" />
+
+        <com.baidu.mapapi.map.MapView
+            android:id="@+id/bmapView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:clickable="true">
+
+        </com.baidu.mapapi.map.MapView>
+
+        <EditText
+            android:id="@+id/txtAddCity"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_below="@+id/btOk"
+            android:layout_alignParentStart="true"
+            android:layout_marginStart="8dp"
+            android:layout_marginTop="-40dp"
+            android:completionThreshold="2"
+            android:hint="请输入搜索城市" />
+
+        <EditText
+            android:id="@+id/txtAddr"
+            android:layout_width="wrap_content"
+            android:layout_height="40dp"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginStart="151dp"
+            android:layout_marginTop="34dp"
+            android:hint="请输入搜索关键字" />
+
+        <ImageView
+            android:id="@+id/btOk"
+            android:layout_width="35dp"
+            android:layout_height="35dp"
+            android:layout_alignBottom="@+id/txtAddr"
+            android:layout_alignParentEnd="true"
+            android:layout_marginEnd="21dp"
+            android:background="@drawable/search" />
+
+        <ImageView
+            android:id="@+id/button_video"
+            android:layout_width="44dp"
+            android:layout_height="43dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="304dp"
+            android:layout_marginBottom="7dp"
+            android:background="@drawable/video" />
+
+        <Button
+            android:id="@+id/gexinghua"
+            android:layout_width="47dp"
+            android:layout_height="49dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="236dp"
+            android:layout_marginBottom="7dp"
+            android:background="@drawable/gexinghua" />
+
+        <ImageView
+            android:id="@+id/button_card"
+            android:layout_width="51dp"
+            android:layout_height="42dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="158dp"
+            android:layout_marginBottom="7dp"
+            android:background="@drawable/card_bianqian" />
+
+        <ImageView
+            android:id="@+id/image_info"
+            android:layout_width="45dp"
+            android:layout_height="42dp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentBottom="true"
+            android:layout_marginEnd="79dp"
+            android:layout_marginBottom="7dp"
+            android:background="@drawable/personal" />
+    </RelativeLayout>
+</LinearLayout>
